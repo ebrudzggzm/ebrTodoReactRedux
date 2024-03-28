@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "ec302fee-d58a-4c4d-a3b4-bfc602898e16",
+      "title": "redux öğren",
+      "is_done": true,
+      "created_At": "27.03.2024"
+    },
+    {
+      "id": "f8c49eb7-8880-419e-9e27-f8a697041778",
+      "title": "react çalış",
+      "is_done": true,
+      "created_At": "27.03.2024"
+    },
+    {
+      "id": "de95e150-f17b-46cc-a9e7-685ad5863017",
+      "title": "MVC çalış",
+      "is_done": true,
+      "created_At": "28.03.2024"
+    }
+  ]
+}
